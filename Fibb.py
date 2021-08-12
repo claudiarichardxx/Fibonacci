@@ -1,4 +1,4 @@
-n = int(input("Enter number of terms "))
+n = int(input("Enter the number of terms "))
 n1, n2 = 0, 1
 count = 0
 odd=0
