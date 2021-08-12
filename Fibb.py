@@ -1,3 +1,4 @@
+#python-version 2.7
 n = int(input("Enter the number of terms "))
 n1, n2 = 0, 1
 count = 0
